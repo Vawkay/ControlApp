@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "228492302485",
+    "project_id": "controlappautentication",
+    "storage_bucket": "controlappautentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228492302485:android:6abe7260eb00a9e5f0639c",
+        "android_client_info": {
+          "package_name": "com.example.controlapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228492302485-3oa20lte7etcbeqqmoj5n3a5rd41hjq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.controlapp",
+            "certificate_hash": "b9775a346a52072259de21eb37c874f2aa92009c"
+          }
+        },
+        {
+          "client_id": "228492302485-necbsfst38s6tktul5u1kkf1fhse0ljg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOoinhbk0lI7nxvpZg-OIByI8inFay7-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228492302485-necbsfst38s6tktul5u1kkf1fhse0ljg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
