@@ -57,16 +57,41 @@
 
     <style name="blue_button">
         <item name="android:layout_width">match_parent</item>
-        <item name="android:textSize">15sp</item>
+        <item name="android:textSize">17sp</item>
         <item name="android:layout_height">47dp</item>
         <item name="android:background">@drawable/blue_button</item>
         <item name="android:paddingLeft">30dp</item>
         <item name="android:paddingRight">30dp</item>
         <item name="android:paddingBottom">10dp</item>
         <item name="android:paddingTop">10dp</item>
-
-
     </style>
+
+    <style name="blue_button_google">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:layout_height">47dp</item>
+        <item name="android:background">@drawable/blue_button</item>
+        <item name="android:thumbTextPadding">10dp</item>
+        <item name="android:paddingLeft">30dp</item>
+        <item name="android:paddingRight">30dp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:paddingTop">10dp</item>
+    </style>
+
+    <style name="blue_button_cadastro">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:layout_height">47dp</item>
+        <item name="android:background">@drawable/blue_button</item>
+        <item name="android:thumbTextPadding">10dp</item>
+        <item name="android:paddingLeft">30dp</item>
+        <item name="android:paddingRight">30dp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:paddingTop">10dp</item>
+    </style>
+
+
+
 
 
 
